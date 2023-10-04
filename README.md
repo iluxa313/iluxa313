@@ -24,7 +24,7 @@ if %remainder% neq 0 echo Завершение программы через 7 �
 
 timeout /t 7 >nul: Эта команда задерживает выполнение скрипта на 7 секунд (время ожидания) и подавляет вывод времени ожидания (>nul). После этого скрипт завершается.
 
-![image](https://github.com/iluxa313/iluxa313/assets/146937077/b34c64bd-7532-48a1-b92d-d669ad657fc9)
+![image](https://github.com/iluxa313/iluxa313/assets/146937077/3619955c-8ca8-4da7-a69f-5af7b1e07674)
 ![image](https://github.com/iluxa313/iluxa313/assets/146937077/745f7668-c7be-4591-babf-dbd0b3fe13a8)
 ![image](https://github.com/iluxa313/iluxa313/assets/146937077/1f549bb1-c2a1-49fd-b350-b393ac0d1682)
 ![image](https://github.com/iluxa313/iluxa313/assets/146937077/574397f5-f4b9-4c87-8a1c-0dbfe35e48e4)
