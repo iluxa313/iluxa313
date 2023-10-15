@@ -7,7 +7,6 @@
 set /p format=Введите формат файлов: 
 set /a count=0
 for /f %%i in ('dir /b /a-d "%folder%\*.%format%" ^| find /c /v ""') do set "count=%%i"
-
 echo Число файлов формата %format%: %count%
 for /f %%P in ('tasklist /NH /FO CSV ^| find /c /v ""') do set "process_count=%%P"
 set /a "remainder=count %% 2"
